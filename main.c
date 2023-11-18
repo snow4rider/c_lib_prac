@@ -7,7 +7,7 @@ int a[MAX];
 
 int main()
 {
-  int i,t,x,y;
+  int i;
   /* fill array */
   for (i=0; i < MAX; i++)
   {
