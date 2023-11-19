@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "util.h"
 
-#define MAX 10
+#define MAX 15
 
 int a[MAX];
 
